@@ -1,2 +1,2 @@
 # GustoNutritionCalculator
-Created with CodeSandbox
+Developed in CodeSandbox using Vue.js
